@@ -1,0 +1,14 @@
+---
+default: -p json_report -p chrome --publish-quiet
+api_log: -p http_log -p api
+
+
+json_report: --format pretty --format json --out=report/rubocop.html.json
+
+
+http_log: HTTP_LOG=true
+
+
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+internet_explorer: BROWSER=internet_explorer
