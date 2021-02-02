@@ -5,18 +5,8 @@
 Funcionalidade: Testes das funcionalidades do website
     User Story: Cadastar um funcionário
         Como gestor 
-        Quero cadastrar um funcionário
-        Para ter ele na minha base
-
-    User Story: Editar funcionário
-        Como gestor 
-        Quero editar as informações do funcionário
-        Para ter seus dados atualizados
-
-    User Story: Excluir funcionário
-        Como gestor 
-        Quero excluir um funcionário
-        Para manter a minha base limpa
+        Quero cadastrar,alterar e excluir as informações do funcionário
+        Para sempre ter as informações atualizadas na minha base
     
     @CAD
     Cenario: Cadastrar funcionario
