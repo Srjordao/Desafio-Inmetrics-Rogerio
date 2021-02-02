@@ -3,7 +3,7 @@
 
 @FUN
 Funcionalidade: Testes das funcionalidades do website
-    User Story: Cadastar um funcionário
+    User Story: Criação de funcionário 
         Como gestor 
         Quero cadastrar,alterar e excluir as informações do funcionário
         Para sempre ter as informações atualizadas na minha base
