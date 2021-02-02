@@ -5,18 +5,8 @@
 Funcionalidade: Testes das funcionalidades do website
     User Story: Cadastrar um usuário
         Como usuário do sistema
-        Quero cadastrar um usuário para login
-        Para ter acesso ao sistema
-        
-    User Story: Realizar Login
-        Como usuário do sistema
-        Quero realizar login
-        Para ter acesso as funcionalidades do sistema
-    
-    User Story: Usuário ja cadastrado
-        Como usuário dos sistema
-        Quero realizar login
-        Para ter acesso as funcionalidades dos sistema
+        Quero cadastrar um usuário, Logar e validar existência de um cadastro já cadastrado.
+        Para ter acesso ao sistema e suas funcionalidades
         
     @CAD_USER
     Cenario: Cadastrar usuário 
