@@ -3,7 +3,7 @@
 
 @CRUD
 Funcionalidade: Testes das funcionalidades do website
-    User Story: Cadastrar um usuário
+    User Story: Validar login 
         Como usuário do sistema
         Quero cadastrar um usuário, Logar e validar existência de um cadastro já cadastrado.
         Para ter acesso ao sistema e suas funcionalidades
