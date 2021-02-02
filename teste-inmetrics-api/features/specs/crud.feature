@@ -27,14 +27,17 @@ Funcionalidade: Realizar validação da requisições da API
     Cenario: Cadastrar um usuario 
         Dado que realizo um cadastrado de funcionario 
         Então a API deve retornar status 202
+
     @CONSULTAR_USER
     Cenario: Consulta de usuarios
         Dado que eu faça um GET no endpoint
         Entao deve apresentar uma lista com os funcionarios cadastrados
+
     @ALL_USERS
     Cenario: Consulta de todos os usuarios 
         Dado que eu faça um GET no endpoint funcionarios
         Entao deve apresentar todos os funcionarios cadastrados
+
     @ALTERAR_USER
     Cenario: Alteração de dados         
         Dado que eu faça um PUT no endpoint para aletração do funcionario
