@@ -3,25 +3,10 @@
 
 @API
 Funcionalidade: Realizar validação da requisições da API
-    User Story: Cadastrar um usuário
+    User Story: 
         Como gestor 
-        Quero cadastrar um usuário
-        Para ter os dados na minha base 
-    
-    User Story: Consultar usuário
-        Como gestor 
-        Quero consultar um usuário
-        Para ter acesso aos dados da base
-
-    User Story: Consultar todos os usuários
-        Como gestor 
-        Quero consultar todos os usuários da base
-        Para ter acesso aos dados da base
-
-    User Story: Alterar dados do usuário
-        Como gestor 
-        Quero alterar uma informação
-        Para poder atulizar a base cadastral
+        Quero validar as funcionalidades da api
+        Para ter certeza que todas as requisições estão funcionando
 
     @CADASTRAR_USER
     Cenario: Cadastrar um usuario 
